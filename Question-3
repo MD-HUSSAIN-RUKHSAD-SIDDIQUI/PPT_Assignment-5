@@ -6,6 +6,7 @@ class Solution {
     // int val2=nums[j]*nums[j]; 
     while(i<=j)
     {    
+
          int val1=nums[i]*nums[i];
          int val2=nums[j]*nums[j]; 
         if(val1>val2)
